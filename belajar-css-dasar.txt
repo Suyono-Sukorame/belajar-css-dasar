@@ -14,3 +14,8 @@ https://www.w3schools.com/css/css3_shadows.asp
 https://getcssscan.com/css-box-shadow-examples
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
+
+Sistem Warna - RGB dan Sistem Warna - Hexadesimal
+https://htmlcolorcodes.com/color-names/
+
+

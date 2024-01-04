@@ -3,11 +3,11 @@ h1 {
 }
 
 button {
-    color: blueviolet;
-    background-color: tan;
+    color: rgb(134, 86, 178);
+    background-color: rgb(220, 130, 14);
 }
 
 p {
     color: white;
-    background-color: grey;
+    background-color: rgb(19, 18, 18);
 }
