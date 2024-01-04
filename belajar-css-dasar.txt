@@ -10,3 +10,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 Efek Shadow
 https://www.w3schools.com/css/css3_shadows.asp
+
+https://getcssscan.com/css-box-shadow-examples
+
+
