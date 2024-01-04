@@ -2,5 +2,11 @@ Front And Dasar
 
 Belajar CSS Dasar
 
+Apa itu CSS
 https://codepen.io/nanariv/pen/gOxQoPJ
 
+CSS itu luas, tapi Jangan Khawatir!
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+Efek Shadow
+https://www.w3schools.com/css/css3_shadows.asp
