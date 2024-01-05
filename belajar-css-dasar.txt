@@ -18,4 +18,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 Sistem Warna - RGB dan Sistem Warna - Hexadesimal
 https://htmlcolorcodes.com/color-names/
 
+Mengenal Properti Text Pada Umumnya
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+https://id.wikipedia.org/wiki/Cascading_Style_Sheets
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+
+
+
+
 
