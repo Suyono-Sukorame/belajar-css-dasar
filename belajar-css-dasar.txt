@@ -23,6 +23,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
 https://id.wikipedia.org/wiki/Cascading_Style_Sheets
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
 
+Mengenal Ukuran pada CSS dengan Font
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
 
 
 
