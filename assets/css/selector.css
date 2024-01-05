@@ -1,11 +1,19 @@
 * {
-    background-color: blueviolet;
+    background-color: #88AB8E;
 }
 
 h1,
 h2,
 h3 {
-    color: white;
-    background-color: black;
+    color: #AFC8AD;
+    background-color: #EEE7DA;
     font-size: smaller;
+}
+
+span {
+    color: #F2F1EB;
+}
+
+#list2 {
+    color: black;
 }

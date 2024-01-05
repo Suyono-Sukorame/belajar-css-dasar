@@ -29,5 +29,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
 Selector Menggunakan Element HTML
 
 
-
+Selector Menggunakan Attribute ID
+https://colorhunt.co/palettes/popular
 
