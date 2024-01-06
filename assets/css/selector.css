@@ -1,19 +1,25 @@
+/* selector.css */
+
 * {
-    background-color: #88AB8E;
+    background-color: #F3F8FF;
 }
 
 h1,
 h2,
 h3 {
-    color: #AFC8AD;
-    background-color: #EEE7DA;
+    color: #49108B;
+    background-color: #E26EE5;
     font-size: smaller;
 }
 
 span {
-    color: #F2F1EB;
+    color: #E26EE5;
 }
 
 #list2 {
-    color: black;
+    color: #49108B;
+}
+
+.mark {
+    background-color: #7E30E1;
 }

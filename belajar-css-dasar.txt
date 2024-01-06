@@ -32,3 +32,6 @@ Selector Menggunakan Element HTML
 Selector Menggunakan Attribute ID
 https://colorhunt.co/palettes/popular
 
+Selector Menggunakan Attribute Class
+
+
