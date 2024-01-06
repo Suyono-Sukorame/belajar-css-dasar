@@ -1,6 +1,10 @@
 /* descendant_combinator.css */
 
-.jokes p {
+.jokes>p {
     font-size: 14px;
     color: aqua;
+}
+
+a+button {
+    background-color: greenyellow;
 }
