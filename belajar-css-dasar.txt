@@ -33,5 +33,9 @@ Selector Menggunakan Attribute ID
 https://colorhunt.co/palettes/popular
 
 Selector Menggunakan Attribute Class
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
+
+Mengenal Descendant Selector
+https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator
 
 

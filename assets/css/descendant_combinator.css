@@ -1,0 +1,6 @@
+/* descendant_combinator.css */
+
+.jokes p {
+    font-size: 14px;
+    color: aqua;
+}
