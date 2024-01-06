@@ -38,4 +38,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 Mengenal Descendant Selector
 https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator
 
+Mengenal Direct Descendant dan Ajdacent Selector
+https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator
+
+Mengenal Attribute Selector
+
+
+
+
 
