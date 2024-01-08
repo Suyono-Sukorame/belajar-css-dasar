@@ -42,6 +42,19 @@ Mengenal Direct Descendant dan Ajdacent Selector
 https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator
 
 Mengenal Attribute Selector
+https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
+
+Mengenal Pseudo Classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/:active
+https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
+https://developer.mozilla.org/en-US/docs/Web/CSS/:first
+https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child
+https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
+
+Mengenal Pseudo Elements
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
 
 
 

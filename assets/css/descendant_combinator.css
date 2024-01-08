@@ -8,3 +8,15 @@
 a+button {
     background-color: greenyellow;
 }
+
+section h3::first-letter {
+    font-size: xx-large;
+}
+
+section h3::after {
+    content: '*';
+}
+
+section p::first-line {
+    color: red;
+}
