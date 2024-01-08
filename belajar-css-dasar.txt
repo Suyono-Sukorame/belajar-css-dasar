@@ -75,3 +75,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right
 https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom
 https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left
 
+Mengenal properti display
+https://developer.mozilla.org/en-US/docs/Web/CSS/display
