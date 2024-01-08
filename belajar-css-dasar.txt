@@ -61,3 +61,17 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
 
 Mengenal properti border pada css
 https://developer.mozilla.org/en-US/docs/Web/CSS/border
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-color
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-width
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+
+Mengenal properti padding pada css
+https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+
+Mengenal properti margin pada css
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left
+
