@@ -1,6 +1,10 @@
 div {
-    width: 500px;
-    border: 1px solid green;
-    padding: 15px;
-    margin: 20px;
+    border: 0.5rem outset pink;
+    outline: 0.5rem solid khaki;
+    box-shadow: 0 0 0 2rem skyblue;
+    border-radius: 12px;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    outline-offset: 0.5rem;
 }
