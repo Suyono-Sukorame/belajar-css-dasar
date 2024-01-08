@@ -77,3 +77,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left
 
 Mengenal properti display
 https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+Apa itu flexbox
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
